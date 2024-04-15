@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "JSChatHistory",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "chatMessages",
+        "value": "[{\n  id: 1,\n  type: \"ai\",\n  text: \"Hello, how can I help you?\"\n}]"
+      },
+      {
+        "name": "userInput",
+        "value": "\"\""
+      },
+      {
+        "name": "counter",
+        "value": "1"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSChatHistory",
+  "deleted": false,
+  "gitSyncId": "661baa40fc7e85401569f81d_661bb5f5fc7e85401569f846"
+}
